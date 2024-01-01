@@ -3,6 +3,7 @@ import ReactDOM from "react-dom/client";
 import Coins from "./Coins";
 import App from "./App";
 import Home from "./routes/Home";
+import "./styles.css";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 // root.render(<Coins />);
